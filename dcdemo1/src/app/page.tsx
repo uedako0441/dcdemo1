@@ -12,7 +12,7 @@ export default function HomePage() {
         <Link href="/map" className="bubble">駅構内地図</Link>
         <Link href="/toilet" className="bubble">トイレの場所</Link>
         <Link href="/slope" className="bubble">スロープ</Link>
-        <Link href="/none" className="bubble">特になし</Link>
+        <Link href="/minitokyo" className="bubble">MiniTokyo3D</Link>
         <Link href="/book" className="bubble">予約</Link>
         <Link href="/navi" className="bubble">乗換案内</Link>
       </div>

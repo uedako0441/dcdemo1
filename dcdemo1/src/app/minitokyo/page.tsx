@@ -26,7 +26,7 @@ const MiniTokyo3D = () => {
     loadMiniTokyo3D().catch((err) => console.error("Error loading Mini Tokyo 3D:", err));
   }, []);
 
-  return <div id="mini-tokyo-3d" style={{ width: "400px", height: "400px" }}></div>;
+  return <div id="mini-tokyo-3d" style={{ width: "100%", height: "100%" }}></div>;
 };
 
 export default MiniTokyo3D;
