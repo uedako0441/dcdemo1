@@ -5,7 +5,7 @@ export default function HomePage() {
   return (
     <main className="main">
       
-      <h1 className="center-text">乗車支援アプリ「」何かお困りごとはございますか？</h1>
+      <h1 className="center-text">乗車支援アプリ「駅楽」何かお困りごとはございますか？</h1>
 
       <div className="button-container">
         <Link href="/chat" className="bubble">チャット</Link>
